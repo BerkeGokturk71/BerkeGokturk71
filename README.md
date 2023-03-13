@@ -6,10 +6,12 @@
 - 🌱 I’m currently learning Python for Data Science  
 
 - 🤔 I’m looking for help with Numpy,Machine Learning
-- 
+
 - 💬 Ask me about anything related to Flask/PyQt5/Pandas
 
 - ⚡ Fun fact: Computer Games and Ps4
+
+
 
 <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">
 ✨</g-emoji> About Me
