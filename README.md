@@ -9,7 +9,7 @@
 - 💬 Ask me about anything related to Flask/PyQt5/Pandas
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Computer Games and Ps4
 <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
 About Me
 I'm studying in Software Engineering 1/5 student . I'm 20 year old and learn Python for Data Science. Now That's all.
