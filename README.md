@@ -10,7 +10,8 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+About Me
 
 <g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji>
 
@@ -19,4 +20,4 @@
 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=BerkeGokturk71&show_icons=true&theme=gradient)
